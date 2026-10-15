@@ -1,0 +1,7 @@
+törölni egy pizzát
+tegnapi kódot lehet használni, megvannak a cardok megvannak jelenítve,
+ mindegyiknek kéne egy törlés gomb a footerbe state-ben kéne törölni
+kell egy új tömb amiben nincs benne az amit törlünk, filterrel csinálná,
+setter-el a tömb jelenlegi tömböt filterelve. map-nek meg a filternek két értéke van
+általában index alapján szoktunk update-elni map tud 2 paramétert, iterációs változó meg van egy index
+törlés az mindenképpen index alapján töröljön
